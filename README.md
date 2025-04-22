@@ -55,7 +55,7 @@ INSTALLED_APPS = [
     "accounts",
 ]
 ```
-## In the REST_FRAMEWORK section, configure JWT authentication:
+In the REST_FRAMEWORK section, configure JWT authentication:
 
 ```bash
 REST_FRAMEWORK = {
