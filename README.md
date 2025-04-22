@@ -64,7 +64,7 @@ REST_FRAMEWORK = {
     ),
 }
 ```
-## In the DJOSER section, add configurations for user login and registration:
+#### In the DJOSER section, add configurations for user login and registration:
 
 ```bash
 DJOSER = {
